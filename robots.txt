@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fedepaj.github.io/fp_site/sitemap.xml
