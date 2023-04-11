@@ -9,5 +9,19 @@
         "name": "Federico Paglioni"
     },
     "items": [
+        {
+            "id": "https://fedepaj.github.io/fp_site/title.html",
+            "url": "https://fedepaj.github.io/fp_site/title.html",
+            "title": "TITLE",
+            "summary": "First post This is the first post. Here's why: int main(){ printf(\"Hello World\"); }",
+            "content_html": "\n    <h2 id=\"first-post\">\n      First post\n    </h2>\n\n  <p>\n    This is the first post.\n  </p>\n\n  <p>\n    Here's why:\n  </p>\n\n  <ul>\n    <li><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);\">It's a post</span></li><li><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);\">It's the first</span></li>\n  </ul>\n<pre class=\"line-numbers  language-html\"><code>int main(){\n  printf(\"Hello World\");\n}</code></pre>",
+            "author": {
+                "name": "Federico Paglioni"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-11T17:21:02+02:00",
+            "date_modified": "2023-04-11T17:21:02+02:00"
+        }
     ]
 }
